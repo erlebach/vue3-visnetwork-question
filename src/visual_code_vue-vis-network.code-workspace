@@ -1,0 +1,11 @@
+{
+  "folders": [
+	{
+		"path": ".."
+	},
+	{
+		"path": "../../my_vue2_vis_network"
+	}
+],
+  "settings": {}
+}
